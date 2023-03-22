@@ -156,5 +156,5 @@ I would like to thank microverse for guiding me on how to do this project. I tha
 
 
 ## 📝 License <a name="license"></a>
-
+MIT Licence
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
