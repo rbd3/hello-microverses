@@ -61,9 +61,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+<!-- - [Live Demo Link](https://google.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -120,9 +120,9 @@ You don't need a deployment from now.
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/rbd3)
-- Twitter: [@twitterhandle](https://twitter.com/@Narson321)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/andry-narson-rabedesana-15b8b4248)
+- GitHub: [@rbd3](https://github.com/rbd3)
+- Twitter: [@Narson321](https://twitter.com/@Narson321)
+- LinkedIn: [@Andry Narson Rabedesana](https://linkedin.com/in/andry-narson-rabedesana-15b8b4248)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
