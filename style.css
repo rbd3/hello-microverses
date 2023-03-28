@@ -108,6 +108,7 @@
   opacity: 0.5;
   left: 260px;
   top: 642px;
+  opacity: 0.5;
 }
 
 .linkindin {
@@ -135,8 +136,6 @@
   left: 339px;
   top: 644px;
   opacity: 0.5;
-  /*background: rgba(80, 95, 121, 1);*/
-  /*background-image: url("media/Medium.png");*/
 }
 
 .angellist {
