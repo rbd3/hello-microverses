@@ -1,11 +1,10 @@
 
-
 <a name="readme-top"></a>
 
 
 <div align="center">
   
-  <h3><b>Hello Microverse </b></h3>
+  <h3><b>My Portfolio </b></h3>
 
 </div>
 
@@ -33,10 +32,9 @@
 
 
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [My Portfolio] <a name="about-project"></a>
 
-**[Hello Microverse]** is a first project we do on Microverse. it help us to have the best practice working with other person in programming
-
+**[Portfolio-narson]** is my portfolio page. It show about my background, skills, experience, and projects I have worked on.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -45,17 +43,17 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.w3schools.com/html">Html</a></li>
-    <li><a href="https://www.w3schools.com/css">css</a></li>
+    <li><a href="https://www.w3schools.com/html">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css">CSS</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Setting up Linters properly]**
+- **[Html and css]**
+- **[Mobile view]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,8 +66,10 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up :
-git clone https://github.com/rbd3/Hello-Microverse.git
+To get a local copy up, follow these steps:
+- Open your Terminal
+- Navigate to the desired folder
+-git clone https://github.com/rbd3/Portfolio.git
 
 ### Prerequisites
 
@@ -84,7 +84,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-git clone https://github.com/rbd3/Hello-Microverse.git
+git clone https://github.com/rbd3/Portfolio.git
 ```
 ### Install
 
@@ -102,7 +102,7 @@ To run tests, run the following command:
 
 
 ```sh
-hello-microverses/test.md
+Portfolio/test.md
 ```
 
 
@@ -112,7 +112,6 @@ You don't need a deployment from now.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 👥 Authors <a name="authors"></a>
@@ -128,7 +127,7 @@ You don't need a deployment from now.
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[more content in the page]**
+- [ ] **[more project i finish]**
 - [ ] **[good view of the website]**
 - [ ] **[some interaction with visitor]**
 
@@ -143,18 +142,21 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-If you like this project let me know. you can reach me on twitter i provided on author section
+If you like this project give this repository a 5 star rating.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse for guiding me on how to do this project. I thank to Ayesha Arshad who help me to do this project.
+I would like to thank:
+- Microverse Review Team
+- My Standup team
+- my family too for supporting me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 📝 License <a name="license"></a>
-MIT Licence
+
+This project is [MIT](./LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

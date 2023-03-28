@@ -78,7 +78,8 @@
   text-decoration: none;
   font-size: 16px;
   font-weight: 500;
-  margin: 0 20px;
+  margin-top: 70px;
+  margin-left: 20px;
   order: 2;
   line-height: 24px;
   color: #7f8cff;
@@ -95,23 +96,21 @@
   list-style: none;
   width: 10.636rem;
   margin-left: -25px;
+  margin-top: 1px;
   gap: 8px;
   order: 3;
 }
 
 .twitter {
-  background-image: url("media/twitter@2x.png");
   color: rgba(80, 95, 121, 1);
   height: 19.962478637695312px;
   width: 19.985925674438477px;
+  opacity: 0.5;
   left: 260px;
   top: 642px;
-  border-radius: 10px;
-  opacity: 0.5;
 }
 
 .linkindin {
-  background-image: url("media/Linkedin\ icon@2x.png");
   color: rgba(80, 95, 121, 1);
   height: 20.000062942504883px;
   width: 20.00014877319336px;
@@ -122,13 +121,11 @@
 }
 
 .github {
-  background-image: url("media/github@2x.png");
   color: rgba(80, 95, 121, 1);
   height: 20px;
   width: 17.985200881958008px;
   left: 379px;
   top: 642px;
-  border-radius: 10px;
   opacity: 0.5;
 }
 
@@ -137,18 +134,27 @@
   width: 20px;
   left: 339px;
   top: 644px;
-  border-radius: 10px;
-  background: rgba(80, 95, 121, 1);
-  background-image: url("media/Medium.png");
+  opacity: 0.5;
+  /*background: rgba(80, 95, 121, 1);*/
+  /*background-image: url("media/Medium.png");*/
 }
 
 .angellist {
-  background-image: url("media/angellist@2x.png");
+  /*background-image: url("media/angellist@2x.png");*/
   color: rgba(80, 95, 121, 1);
   height: 20px;
   width: 14.166671752929688px;
   left: 416px;
   top: 642px;
   border-radius: 10px;
+  opacity: 0.5;
+}
+
+.twitter:hover,
+.linkedin:hover,
+.github:hover,
+.medium:hover,
+.angel:hover {
+  color: #505f79;
   opacity: 0.5;
 }
